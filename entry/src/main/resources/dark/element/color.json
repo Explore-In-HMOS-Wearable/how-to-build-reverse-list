@@ -1,0 +1,43 @@
+{
+  "color": [
+    {
+      "name": "chat_font",
+      "value": "#454C54",
+      "comment": "Body text. Soft charcoal instead of near-black. ~8.3:1 on white."
+    },
+    {
+      "name": "chat_font_dim",
+      "value": "#767E88",
+      "comment": "Timestamps and labels. ~4.7:1 on white — keep to 10sp+ and non-critical text."
+    },
+    {
+      "name": "chat_font_on_brand",
+      "value": "#FFFFFF",
+      "comment": "Text sitting on the brand fill."
+    },
+    {
+      "name": "chat_page_bg",
+      "value": "#FFFFFF",
+      "comment": "Page background. Set to #F4F5F7 if you want the whole surface soft grey."
+    },
+    {
+      "name": "chat_surface",
+      "value": "#F2F3F5",
+      "comment": "Input field, floating button."
+    },
+    {
+      "name": "chat_surface_alt",
+      "value": "#E9EBEE",
+      "comment": "Incoming bubble, secondary buttons."
+    },
+    {
+      "name": "chat_divider",
+      "value": "#DCDFE4",
+      "comment": "Borders and hairlines."
+    },
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    }
+  ]
+}

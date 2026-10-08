@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "chat_font",
+      "value": "#454C54"
+    },
+    {
+      "name": "chat_font_dim",
+      "value": "#767E88"
+    },
+    {
+      "name": "chat_font_on_brand",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "chat_page_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "chat_surface",
+      "value": "#F2F3F5"
+    },
+    {
+      "name": "chat_surface_alt",
+      "value": "#E9EBEE"
+    },
+    {
+      "name": "chat_divider",
+      "value": "#DCDFE4"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    }
+  ]
+}
